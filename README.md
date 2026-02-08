@@ -11,7 +11,8 @@ Here are some mods that I believe are worth checking!
 ## Quality of Life
 | Mod | Description | Links |
 |-----|-------------|-------|
-| Blocchio by Yriokiri:|An alternative WAILA mod that has active developers, a clean ui and great customization| https://www.curseforge.com/hytale/mods/blocchio |
+| Blocchio by: Yriokiri|A WAILA mod that has active developers, a clean ui and great customization| https://www.curseforge.com/hytale/mods/blocchio |
+| Better Item Viewer by: Drexhd|An indepth JEI-type mod that has good customizatio with a very clean and easy to navigate ui. Ability to pin reciepies, give yourself items, sort by mod and item types. Has advanced item info like weapon damage and tool durability|https://www.curseforge.com/hytale/mods/better-item-viewer|
 
 ## Gameplay Enhancements
 | Mod | Description | Links |
