@@ -1,5 +1,5 @@
 # Hytale Mods To Try
-A curated list of Hytale mods worth checking out. This list focuses on strong alternatives to popular mods that have slowed updates, plus standout new releases and reliable classics that still receive regular support. Mods that appear abandoned or have a better alternative may be skipped.
+A curated list of Hytale mods worth checking out. This list focuses on strong alternatives to popular mods that have slowed updates, plus standout new releases and "day one" mods that still receive regular support. Mods that appear abandoned or have a better alternative may be skipped.
 
 If you want to add a mod, open a pull request with a short description and link, or start a discussion with your recommendation.
 
