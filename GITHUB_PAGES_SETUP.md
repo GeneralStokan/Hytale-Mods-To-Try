@@ -41,4 +41,4 @@ The webpage includes:
 - Mobile-responsive design
 - Footer with license information
 
-Simply merge this PR to main, and GitHub Pages will automatically deploy your new website!
+**Important:** GitHub Pages must be enabled in repository settings (follow steps 1-4 above) before the automatic deployment will work. Once enabled, merge this PR to main, and GitHub Pages will automatically deploy your new website!
