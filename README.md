@@ -5,16 +5,27 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 
 ## Table of Contents
 - [Quality of Life](#quality-of-life)
-- [Gameplay Enhancements](#gameplay-enhancements)
-- [Cosmetics & Visual](#cosmetics--visual)
-- [Adventure & Content](#adventure--content)
 - [Utilities](#utilities)
+- [Gameplay Enhancements](#gameplay-enhancements)
+- [Adventure & Content](#adventure--content)
+- [Weapons, Tools & Armor](#weapons-tools-armor)
+- [Cosmetics & Visual](#cosmetics--visual)
 
 ## Quality of Life
 | Mod | Description | Links |
 |-----|-------------|-------|
+| Floating Workbenches by: PhilXD | Workbenches no longer break when the floor beneath is broken | https://www.curseforge.com/hytale/mods/floating-workbenches |
+| Better Chest by: JoshMC | Chests no longer break when the floor beneath is broken | https://www.curseforge.com/hytale/mods/better-chest |
+| Item Magnet by: Jaredlll08 | Adds a craftable magnet to pull in items | https://www.curseforge.com/hytale/mods/item-magnet |
+| Better Magnetism by: Linceros | If you don't want to have a craftable magnet and instead just an increased pickup range this is the best mod I've found for that. Good customization | https://www.curseforge.com/hytale/mods/bettermagnetism |
+
+## Utilities
+| Mod | Description | Links |
+|-----|-------------|-------|
 | Blocchio by: Yriokiri | A WAILA mod that has active developers, a clean UI and great customization | https://www.curseforge.com/hytale/mods/blocchio |
 | Better Item Viewer by: Drexhd | An in-depth JEI-type mod that has good customization with a very clean and easy to navigate UI. Ability to pin recipes, give yourself items, sort by mod and item types. Has advanced item info like weapon damage and tool durability | https://www.curseforge.com/hytale/mods/better-item-viewer |
+| HyUi by: EllieAU | "simplify the creation and management of custom User Interfaces for Hytale" - EllieAU | https://www.curseforge.com/hytale/mods/hyui |
+| Auto-Multi Hud by: Darimus | Similar to "MultipleHud by: Buuz135" but it doesn't require other Mods to "add support" in order for it to work | https://www.curseforge.com/hytale/mods/automultihud |
 
 ## Gameplay Enhancements
 | Mod | Description | Links |
@@ -25,20 +36,20 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 | MiniMap-Waila by: DaddyDaDuck | Alternative to "Wayfinder by: Alexr03" which crashes my game and others have claimed corrupted their world. Adds a customizable minimap, decent performance and also adds a toggleable WAILA option | https://www.curseforge.com/hytale/mods/minimap-waila | 
 
 
-## Cosmetics & Visual
-| Mod | Description | Links |
-|-----|-------------|-------|
-
 ## Adventure & Content
 | Mod | Description | Links |
 |-----|-------------|-------|
 | RPG Companion by: Stefman1234 | Adds a companion to the game! Equip gear, level them up and go on adventures. I will say this mod is pretty new and there are still bugs to figure out. Mod developer has short- and long-term goals | https://www.curseforge.com/hytale/mods/rpg-companion |
 | RPG Leveling and Stats by: Zuxaw_Dev | A popular mod that gets regular updates and features. Completely overhauls the progression system, adds player level and stats as well as mob levels | https://www.curseforge.com/hytale/mods/rpg-leveling-and-stats |
 | MMO Skill Tree by: Zigfreed | Adds leveling of specific skills like OSRS, quests, level rewards and is fully customizable | https://www.curseforge.com/hytale/mods/mmo-skill-tree |
+| Endgame QOL by: Lewaii| This is another case that the most downloaded mod of its kind is the best I've found of its kind. Adds a TON of QOL and content to the game, mostly endgame stuff hence the name| https://www.curseforge.com/hytale/mods/endgame-qol |
 
-## Utilities
+## Weapons, Tools & Armor
 | Mod | Description | Links |
 |-----|-------------|-------|
-| HyUi by: EllieAU | "simplify the creation and management of custom User Interfaces for Hytale" - EllieAU | https://www.curseforge.com/hytale/mods/hyui |
-| Auto-Multi Hud by: Darimus | Similar to "MultipleHud by: Buuz135" but it doesn't require other Mods to "add support" in order for it to work | https://www.curseforge.com/hytale/mods/automultihud |
+| Improved Crafting by: andzejsw| Adds ALL the "hidden" weapons, tools and armors in the game files. Similar to Endgame QOL, but adds the cloth and leather armors as well as more weapons. It also doesn't add any "endgame" like dungeons and other content | https://www.curseforge.com/hytale/mods/improved-crafting |
+
+## Cosmetics & Visual
+| Mod | Description | Links |
+|-----|-------------|-------|
 
