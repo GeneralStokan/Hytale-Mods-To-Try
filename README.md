@@ -42,10 +42,3 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 | HyUi by: EllieAU | "simplify the creation and management of custom User Interfaces for Hytale" - EllieAU | https://www.curseforge.com/hytale/mods/hyui |
 | Auto-Multi Hud by: Darimus | Similar to "MultipleHud by: Buuz135" but it doesn't require other Mods to "add support" in order for it to work | https://www.curseforge.com/hytale/mods/automultihud |
 
-
-## How to Add Mods
-1. Find the appropriate category for the mod
-2. Add a new row to the table with:
-   - **Mod**: Name of the mod
-   - **Description**: What the mod does
-   - **Links**: Download link and/or project page
