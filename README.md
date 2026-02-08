@@ -9,7 +9,7 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 - [Gameplay Enhancements](#gameplay-enhancements)
 - [Adventure & Content](#adventure--content)
 - [Weapons, Tools & Armor](#weapons-tools-armor)
-- [Cosmetics & Visual](#cosmetics--visual)
+- [Decoration & Visuals](#decoration--visuals)
 
 ## Quality of Life
 | Mod | Description | Links |
@@ -42,16 +42,18 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 | RPG Companion by: Stefman1234 | Adds a companion to the game! Equip gear, level them up and go on adventures. I will say this mod is pretty new and there are still bugs to figure out. Mod developer has short- and long-term goals | https://www.curseforge.com/hytale/mods/rpg-companion |
 | RPG Leveling and Stats by: Zuxaw_Dev | A popular mod that gets regular updates and features. Completely overhauls the progression system, adds player level and stats as well as mob levels | https://www.curseforge.com/hytale/mods/rpg-leveling-and-stats |
 | MMO Skill Tree by: Zigfreed | Adds leveling of specific skills like OSRS, quests, level rewards and is fully customizable | https://www.curseforge.com/hytale/mods/mmo-skill-tree |
-| Endgame QOL by: Lewaii| This is another case that the most downloaded mod of its kind is the best I've found of its kind. Adds a TON of QOL and content to the game, mostly endgame stuff hence the name| https://www.curseforge.com/hytale/mods/endgame-qol |
+| Endgame QOL by: Lewaii | This is another case that the most downloaded mod of its kind is the best I've found of its kind. Adds a TON of QOL and content to the game, mostly endgame stuff hence the name | https://www.curseforge.com/hytale/mods/endgame-qol |
 
 ## Weapons, Tools & Armor
 | Mod | Description | Links |
 |-----|-------------|-------|
-| Improved Crafting by: andzejsw| Adds ALL the "hidden" weapons, tools and armors in the game files. Similar to Endgame QOL, but adds the cloth and leather armors as well as more weapons. It also doesn't add any "endgame" like dungeons and other content | https://www.curseforge.com/hytale/mods/improved-crafting |
+| Improved Crafting by: andzejsw | Adds ALL the "hidden" weapons, tools and armor in the game files. Similar to Endgame QOL, but adds the cloth and leather armor as well as more weapons. It also doesn't add any "endgame" like dungeons and other content | https://www.curseforge.com/hytale/mods/improved-crafting |
+| HyScape by: Landy301 | Adds armor inspired by RuneScape, plans on adding weapons and tools as well | https://www.curseforge.com/hytale/mods/hyscape-old-school-runescape-mod |
 
-## Cosmetics & Visual
+## Decoration & Visuals
 | Mod | Description | Links |
 |-----|-------------|-------|
+| Practical Storage by: OMGitsMiniMe | Adds decorative storage containers as an alternative to chests | https://www.curseforge.com/hytale/mods/practical-storage |
 
 ## License
 
