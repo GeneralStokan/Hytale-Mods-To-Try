@@ -1,5 +1,5 @@
 # Hytale-Mods-To-Try
-Here are some mods that I believe are worth checking out! These mods that are either alternatives to popular mods that haven't updated in months or those I or you believe are better alternatives (check out the discussions to talk about these alternatives) I will also be adding newly release mods that deserve a spotlight
+Here are some mods that I believe are worth checking out! These mods that are either alternatives to popular mods that haven't updated in months or those I or you believe are better alternatives (check out the discussions to talk about these alternatives) I will also be adding newly release mods that deserve a spotlight. There will also be popualar mods in the list that are still getting regualar updates and support, but ones that seem abandoned or have a better alternative won't be included
 ## Table of Contents
 - [Quality of Life](#quality-of-life)
 - [Gameplay Enhancements](#gameplay-enhancements)
