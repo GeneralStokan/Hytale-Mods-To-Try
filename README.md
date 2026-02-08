@@ -17,7 +17,9 @@ Here are some mods that I believe are worth checking out! These mods that are ei
 ## Gameplay Enhancements
 | Mod | Description | Links |
 |-----|-------------|-------|
-| | | |
+| Farming+ by: Kaiwoknats| Adds new fertilizers and composting. Also adds tiered hoes, sickles, and watering cans each with thier own area of effect. A couple nice QOL featues too| https://www.curseforge.com/hytale/mods/farming-plus |
+| Farming Overhaul by: Krynnx| Adds a new hoe, watering can spreads farther, seeds now drop when harvesting. Doesn't add as much as "Farming+" above but they both have their benifits and I really enjoy this mod|https://www.curseforge.com/hytale/mods/farming-overhaul|
+
 
 ## Cosmetics & Visual
 | Mod | Description | Links |
