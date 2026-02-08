@@ -30,6 +30,8 @@ Here are some mods that I believe are worth checking out! These mods that are ei
 | Mod | Description | Links |
 |-----|-------------|-------|
 | RPG Companion by: Stefman1234 | Adds a companion to the game! Equip gear, level them up and go on adventures. I will say this mod is pretty new and there are still bugs to figure out. Mod developer has short- and long-term goals | https://www.curseforge.com/hytale/mods/rpg-companion |
+| RPG Leveling and Stats by: Zuxaw_Dev | A popular mod that gets regular updates and features. Completely overhauls the progression system, adds player level and stats as well as mob levels | https://www.curseforge.com/hytale/mods/rpg-leveling-and-stats |
+| MMO Skill Tree by: Zigfreed | Adds leveling of specific skills like OSRS, quests, level rewards and is fully customizable | https://www.curseforge.com/hytale/mods/mmo-skill-tree |
 
 ## Utilities
 | Mod | Description | Links |
