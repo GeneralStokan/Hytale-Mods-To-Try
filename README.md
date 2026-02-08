@@ -1,6 +1,6 @@
 
 # Hytale-Mods-To-Try
-Here are some mods that I believe are worth checking! These mods that are either alternatives to popular mods that havent updated in months or those I or you believe are better alterantives (check out the discussions to talk about these alternatives) I will also be adding newly release mods that deserve a spotlight
+Here are some mods that I believe are worth checking out! These mods that are either alternatives to popular mods that havent updated in months or those I or you believe are better alterantives (check out the discussions to talk about these alternatives) I will also be adding newly release mods that deserve a spotlight
 ## Table of Contents
 - [Quality of Life](#quality-of-life)
 - [Gameplay Enhancements](#gameplay-enhancements)
@@ -12,7 +12,7 @@ Here are some mods that I believe are worth checking! These mods that are either
 | Mod | Description | Links |
 |-----|-------------|-------|
 | Blocchio by: Yriokiri|A WAILA mod that has active developers, a clean ui and great customization| https://www.curseforge.com/hytale/mods/blocchio |
-| Better Item Viewer by: Drexhd|An indepth JEI-type mod that has good customizatio with a very clean and easy to navigate ui. Ability to pin reciepies, give yourself items, sort by mod and item types. Has advanced item info like weapon damage and tool durability|https://www.curseforge.com/hytale/mods/better-item-viewer|
+| Better Item Viewer by: Drexhd|An indepth JEI-type mod that has good customization with a very clean and easy to navigate ui. Ability to pin reciepies, give yourself items, sort by mod and item types. Has advanced item info like weapon damage and tool durability|https://www.curseforge.com/hytale/mods/better-item-viewer|
 
 ## Gameplay Enhancements
 | Mod | Description | Links |
