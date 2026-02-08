@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hytale Mods To Try</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .intro {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+
+        h2 {
+            color: #667eea;
+            margin-top: 30px;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            background: white;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        thead {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tbody tr {
+            transition: background-color 0.2s;
+        }
+
+        tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
+        .github-link {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background: white;
+            color: #667eea;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .github-link:hover {
+            background: #f8f9fa;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        footer {
+            background: #f8f9fa;
+            padding: 20px 40px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #e9ecef;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            table {
+                font-size: 0.9em;
+            }
+
+            th, td {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 Hytale Mods To Try</h1>
+            <p>A curated list of amazing Hytale mods worth checking out!</p>
+            <a href="https://github.com/GeneralStokan/Hytale-Mods-To-Try" class="github-link" target="_blank">View on GitHub</a>
+        </header>
+
+        <div class="content">
+            <div class="intro">
+                <p>Here are some mods that I believe are worth checking out! These mods are either alternatives to popular mods that haven't updated in a while or those I or you believe are better alternatives. Check out the discussions to talk about these alternatives!</p>
+                <p style="margin-top: 10px;">I will also be adding newly released mods that deserve a spotlight. There will also be popular mods in the list that are still getting regular updates and support, but ones that seem abandoned or have a better alternative may not be included.</p>
+                <p style="margin-top: 10px;"><strong>Submit a Pull Request</strong> to add your own mods you believe should be on the list or check out discussions to recommend mods to be added!</p>
+            </div>
+
+            <h2>Quality of Life</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mod</th>
+                        <th>Description</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Floating Workbenches</strong><br><small>by: PhilXD</small></td>
+                        <td>Workbenches no longer break when the floor beneath is broken</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/floating-workbenches" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Better Chest</strong><br><small>by: JoshMC</small></td>
+                        <td>Chests no longer break when the floor beneath is broken</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/better-chest" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Item Magnet</strong><br><small>by: Jaredlll08</small></td>
+                        <td>Adds a craftable magnet to pull in items</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/item-magnet" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Better Magnetism</strong><br><small>by: Linceros</small></td>
+                        <td>If you don't want to have a craftable magnet and instead just an increased pickup range this is the best mod I've found for that. Good customization</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/bettermagnetism" target="_blank">CurseForge</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Utilities</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mod</th>
+                        <th>Description</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Blocchio</strong><br><small>by: Yriokiri</small></td>
+                        <td>A WAILA mod that has active developers, a clean UI and great customization</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/blocchio" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Better Item Viewer</strong><br><small>by: Drexhd</small></td>
+                        <td>An in-depth JEI-type mod that has good customization with a very clean and easy to navigate UI. Ability to pin recipes, give yourself items, sort by mod and item types. Has advanced item info like weapon damage and tool durability</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/better-item-viewer" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>HyUi</strong><br><small>by: EllieAU</small></td>
+                        <td>"simplify the creation and management of custom User Interfaces for Hytale" - EllieAU</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/hyui" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Auto-Multi Hud</strong><br><small>by: Darimus</small></td>
+                        <td>Similar to "MultipleHud by: Buuz135" but it doesn't require other Mods to "add support" in order for it to work</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/automultihud" target="_blank">CurseForge</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Gameplay Enhancements</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mod</th>
+                        <th>Description</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Farming+</strong><br><small>by: Kaiwoknats</small></td>
+                        <td>Adds new fertilizers and composting. Also adds tiered hoes, sickles, and watering cans each with their own area of effect. A couple nice QOL features too</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/farming-plus" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Farming Overhaul</strong><br><small>by: Krynnx</small></td>
+                        <td>Adds a new hoe, watering can spreads farther, seeds now drop when harvesting. Doesn't add as much as "Farming+" above but they both have their benefits and I really enjoy this mod</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/farming-overhaul" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Hidden's Harvest Delights</strong><br><small>by: HiddenIsme</small></td>
+                        <td>Add 34 new foods and new fruit trees. Foods have detailed models and they have different effects/rarities</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/hiddens-harvest-delights" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>MiniMap-Waila</strong><br><small>by: DaddyDaDuck</small></td>
+                        <td>Alternative to "Wayfinder by: Alexr03" which crashes my game and others have claimed corrupted their world. Adds a customizable minimap, decent performance and also adds a toggleable WAILA option</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/minimap-waila" target="_blank">CurseForge</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Adventure & Content</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mod</th>
+                        <th>Description</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>RPG Companion</strong><br><small>by: Stefman1234</small></td>
+                        <td>Adds a companion to the game! Equip gear, level them up and go on adventures. I will say this mod is pretty new and there are still bugs to figure out. Mod developer has short- and long-term goals</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/rpg-companion" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>RPG Leveling and Stats</strong><br><small>by: Zuxaw_Dev</small></td>
+                        <td>A popular mod that gets regular updates and features. Completely overhauls the progression system, adds player level and stats as well as mob levels</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/rpg-leveling-and-stats" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>MMO Skill Tree</strong><br><small>by: Zigfreed</small></td>
+                        <td>Adds leveling of specific skills like OSRS, quests, level rewards and is fully customizable</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/mmo-skill-tree" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Endgame QOL</strong><br><small>by: Lewaii</small></td>
+                        <td>This is another case that the most downloaded mod of its kind is the best I've found of its kind. Adds a TON of QOL and content to the game, mostly endgame stuff hence the name</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/endgame-qol" target="_blank">CurseForge</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Weapons, Tools & Armor</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mod</th>
+                        <th>Description</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Improved Crafting</strong><br><small>by: andzejsw</small></td>
+                        <td>Adds ALL the "hidden" weapons, tools and armor in the game files. Similar to Endgame QOL, but adds the cloth and leather armor as well as more weapons. It also doesn't add any "endgame" like dungeons and other content</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/improved-crafting" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>HyScape</strong><br><small>by: Landy301</small></td>
+                        <td>Adds armor inspired by RuneScape, plans on adding weapons and tools as well</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/hyscape-old-school-runescape-mod" target="_blank">CurseForge</a></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Decoration & Visuals</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mod</th>
+                        <th>Description</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Practical Storage</strong><br><small>by: OMGitsMiniMe</small></td>
+                        <td>Adds decorative storage containers as an alternative to chests</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/practical-storage" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Better Roofs</strong><br><small>by: Miatski</small></td>
+                        <td>Adds tons of new roofs to build with</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/better-roofs" target="_blank">CurseForge</a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Better Windows</strong><br><small>by: Miatski</small></td>
+                        <td>Adds new windows, animated blocks and stained glass</td>
+                        <td><a href="https://www.curseforge.com/hytale/mods/better-windows" target="_blank">CurseForge</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <footer>
+            <p><strong>License:</strong> This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+            <p style="margin-top: 10px;">© 2026 GeneralStokan. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
