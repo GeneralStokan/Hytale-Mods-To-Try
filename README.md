@@ -53,3 +53,9 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 | Mod | Description | Links |
 |-----|-------------|-------|
 
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+© 2026 GeneralStokan. All rights reserved.
+
