@@ -15,8 +15,8 @@ Check out contribution to request mods
 ---
 
 ## Quality of Life
-| Mod | Why it stands out | Link |
-|-----|-------------------|------|
+| Mod | Description | Link |
+|-----|-------------|------|
 | Floating Workbenches (PhilXD) | Workbenches no longer break when the floor beneath is removed. | https://www.curseforge.com/hytale/mods/floating-workbenches |
 | Better Chest (JoshMC) | Chests no longer break when the floor beneath is removed. | https://www.curseforge.com/hytale/mods/better-chest |
 | Item Magnet (Jaredlll08) | Adds a craftable magnet that pulls in items. | https://www.curseforge.com/hytale/mods/item-magnet |
@@ -26,38 +26,38 @@ Check out contribution to request mods
 
 
 ## Utilities
-| Mod | Why it stands out | Link |
-|-----|-------------------|------|
+| Mod | Description | Link |
+|-----|-------------|------|
 | Blocchio (Yriokiri) | WAILA-style info with a clean UI and strong customization. | https://www.curseforge.com/hytale/mods/blocchio |
 | Better Item Viewer (Drexhd) | JEI-style browsing with pinning, sorting, and detailed item stats. | https://www.curseforge.com/hytale/mods/better-item-viewer |
 | HyUi (EllieAU) | Simplifies creation and management of custom Hytale UI. | https://www.curseforge.com/hytale/mods/hyui |
 | Auto-Multi Hud (Darimus) | Multi-HUD support without requiring other mods to add integration. | https://www.curseforge.com/hytale/mods/automultihud |
 
 ## Gameplay Enhancements
-| Mod | Why it stands out | Link |
-|-----|-------------------|------|
+| Mod | Description | Link |
+|-----|-------------|------|
 | Farming+ (Kaiwoknats) | Fertilizers, composting, and tiered tools with area effects. | https://www.curseforge.com/hytale/mods/farming-plus |
 | Farming Overhaul (Krynnx) | New hoe, improved watering, and seed drops when harvesting. | https://www.curseforge.com/hytale/mods/farming-overhaul |
 | Hidden's Harvest Delights (HiddenIsme) | Adds 34 foods and new fruit trees with varied effects. | https://www.curseforge.com/hytale/mods/hiddens-harvest-delights |
 | MiniMap-Waila (DaddyDaDuck) | Customizable minimap with a toggleable WAILA option. | https://www.curseforge.com/hytale/mods/minimap-waila |
 
 ## Adventure & Content
-| Mod | Why it stands out | Link |
-|-----|-------------------|------|
+| Mod | Description | Link |
+|-----|-------------|------|
 | RPG Companion (Stefman1234) | Companion system with gear, leveling, and adventure support. | https://www.curseforge.com/hytale/mods/rpg-companion |
 | RPG Leveling and Stats (Zuxaw_Dev) | Overhauls progression with player stats and mob levels. | https://www.curseforge.com/hytale/mods/rpg-leveling-and-stats |
 | MMO Skill Tree (Zigfreed) | Skill-based leveling, quests, and configurable rewards. | https://www.curseforge.com/hytale/mods/mmo-skill-tree |
 | Endgame QOL (Lewaii) | Large endgame-focused content and quality-of-life additions. | https://www.curseforge.com/hytale/mods/endgame-qol |
 
 ## Weapons, Tools & Armor
-| Mod | Why it stands out | Link |
-|-----|-------------------|------|
+| Mod | Description | Link |
+|-----|-------------|------|
 | Improved Crafting (andzejsw) | Adds hidden weapons, tools, and armor from game files. | https://www.curseforge.com/hytale/mods/improved-crafting |
 | HyScape (Landy301) | RuneScape-inspired armor with planned tool additions. | https://www.curseforge.com/hytale/mods/hyscape-old-school-runescape-mod |
 
 ## Decoration & Visuals
-| Mod | Why it stands out | Link |
-|-----|-------------------|------|
+| Mod | Description | Link |
+|-----|-------------|------|
 | Practical Storage (OMGitsMiniMe) | Decorative storage containers as chest alternatives. | https://www.curseforge.com/hytale/mods/practical-storage |
 | Better Roofs (Miatski) | New roof styles for building variety. | https://www.curseforge.com/hytale/mods/better-roofs |
 | Better Windows (Miatski) | New windows, animated blocks, and stained glass. | https://www.curseforge.com/hytale/mods/better-windows |
