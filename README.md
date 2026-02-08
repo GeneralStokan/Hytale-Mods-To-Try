@@ -1,5 +1,4 @@
-# Hytale-Mods-To-Try
-Here are some mods that I believe are worth checking!
+
 # Hytale-Mods-To-Try
 Here are some mods that I believe are worth checking!
 ## Table of Contents
