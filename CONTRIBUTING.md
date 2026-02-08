@@ -1,6 +1,6 @@
 ## Contributing
 
-Thanks for helping grow the Hytale mods list. Pull requests are the fastest way to add a mod.
+Thanks for helping grow the Hytale mods list. Pull requests are the fastest way to add a mod. But you can also start a discussion or join the created one to request a mod
 
 ## How To Submit A Pull Request
 1. Fork this repository.
