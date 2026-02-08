@@ -1,5 +1,5 @@
 # Hytale-Mods-To-Try
-Here are some mods that I believe are worth checking out! These mods that are either alternatives to popular mods that haven't updated in months or those I or you believe are better alternatives (check out the discussions to talk about these alternatives) I will also be adding newly release mods that deserve a spotlight. There will also be popualar mods in the list that are still getting regualar updates and support, but ones that seem abandoned or have a better alternative may not be included
+Here are some mods that I believe are worth checking out! These mods that are either alternatives to popular mods that haven't updated in a while or those I or you believe are better alternatives (check out the discussions to talk about these alternatives) I will also be adding newly release mods that deserve a spotlight. There will also be popualar mods in the list that are still getting regualar updates and support, but ones that seem abandoned or have a better alternative may not be included
 
 Submit a Pull Request to add your own mods you believe should be on the list or check out discussions to recommend mods to be added
 
@@ -53,6 +53,8 @@ Submit a Pull Request to add your own mods you believe should be on the list or 
 | Mod | Description | Links |
 |-----|-------------|-------|
 | Practical Storage by: OMGitsMiniMe | Adds decorative storage containers as an alternative to chests | https://www.curseforge.com/hytale/mods/practical-storage |
+| Better Roofs by: Miatski | Adds tons of new roofs to build with | https://www.curseforge.com/hytale/mods/better-roofs |
+| Better Windows by: Miatski | Adds new windows, animated blocks and stained glass | https://www.curseforge.com/hytale/mods/better-windows |
 
 ## License
 
