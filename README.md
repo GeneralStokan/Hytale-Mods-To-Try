@@ -27,7 +27,7 @@ Here are some mods that I believe are worth checking out! These mods that are ei
 ## Adventure & Content
 | Mod | Description | Links |
 |-----|-------------|-------|
-| | | |
+|RPG Companion by: Stefman1234|Adds a companion to the game! Equip gear, level them up and go on adventures. I will say this mod is pretty new an there are still bugs to figure out. Mod developer has short and long term goals| https://www.curseforge.com/hytale/mods/rpg-companion |
 
 ## Utilities
 | Mod | Description | Links |
