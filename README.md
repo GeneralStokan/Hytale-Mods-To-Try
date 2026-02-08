@@ -21,6 +21,9 @@ Check out contribution to request mods
 | Better Chest (JoshMC) | Chests no longer break when the floor beneath is removed. | https://www.curseforge.com/hytale/mods/better-chest |
 | Item Magnet (Jaredlll08) | Adds a craftable magnet that pulls in items. | https://www.curseforge.com/hytale/mods/item-magnet |
 | Better Magnetism (Linceros) | Increased pickup range without a magnet item, plus good customization. | https://www.curseforge.com/hytale/mods/bettermagnetism |
+| NoCube's Resource Bags (NoCube)| Adds bags for specific item types to help manage your inventory| https://www.curseforge.com/hytale/mods/nocubes-resource-bags |
+| NoCube's Simple Bags (NoCube) | Adds bags for any item type to help manage your inventory | https://www.curseforge.com/hytale/mods/nocubes-bags |
+
 
 ## Utilities
 | Mod | Why it stands out | Link |
