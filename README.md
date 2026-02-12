@@ -36,6 +36,7 @@ Check out contribution to request mods
 | Auto-Multi Hud (Darimus) | Multi-HUD support without requiring other mods to add integration. | https://www.curseforge.com/hytale/mods/automultihud |
 | Hycomputer & HyPod (XESC) | Introduces a computer and "IPod like" device to streamline commands. | https://www.curseforge.com/hytale/mods/hycomputer |
 | Healthbar (Ender_Griefeur99) | Displays a health bar above mobs and players for easier tracking of health during combat. | https://www.curseforge.com/hytale/mods/healthbar |
+| MiniMap-Waila (DaddyDaDuck) | Customizable minimap with a toggleable WAILA option. | https://www.curseforge.com/hytale/mods/minimap-waila |
 
 ## Gameplay Enhancements
 | Mod | Description | Link |
@@ -43,12 +44,12 @@ Check out contribution to request mods
 | Farming+ (Kaiwoknats) | Fertilizers, composting, and tiered tools with area effects. | https://www.curseforge.com/hytale/mods/farming-plus |
 | Farming Overhaul (Krynnx) | New hoe, improved watering, and seed drops when harvesting. | https://www.curseforge.com/hytale/mods/farming-overhaul |
 | Hidden's Harvest Delights (HiddenIsme) | Adds 34 foods and new fruit trees with varied effects. | https://www.curseforge.com/hytale/mods/hiddens-harvest-delights |
-| MiniMap-Waila (DaddyDaDuck) | Customizable minimap with a toggleable WAILA option. | https://www.curseforge.com/hytale/mods/minimap-waila |
 | Perfect Dodges - Roll, Dash, Twirl, Flip (narwhals) | Adds a mechanic for dodging | https://www.curseforge.com/hytale/mods/perfect-dodges |
 | Perfect Parries - Souls-Like Parrying (narwhals) | Introduces a parry system, allowing players to counter attacks. | https://www.curseforge.com/hytale/mods/perfect-parry |
 
 
-## Adventure & Content
+
+## Adventure, Progression & Content
 | Mod | Description | Link |
 |-----|-------------|------|
 | RPG Companion (Stefman1234) | Companion system with gear, leveling, and adventure support. | https://www.curseforge.com/hytale/mods/rpg-companion |
