@@ -4,14 +4,15 @@ A curated list of Hytale mods worth checking out. This list focuses on strong al
 Check out contribution to request mods
 
 ## Table of Contents
-- [Quality of Life](#quality-of-life)
-- [Utilities](#utilities)
-- [Gameplay Enhancements](#gameplay-enhancements)
-- [Adventure & Content](#adventure--content)
-- [Weapons, Tools & Armor](#weapons-tools--armor)
-- [Building & Decorations](#building-decorations)
-- [Visuals](#visuals)
-- [License](#license)
+
+- [Quality of Life](QualityOfLife.md)
+- [Utilities](Utilities.md)
+- [Gameplay Enhancements](GameplayEnhancements.md)
+- [Adventure & Content](AdventureContent.md)
+- [Weapons, Tools & Armor](WeaponsTools.md)
+- [Building & Decorations](BuildingDecorations.md)
+- [Visuals](Visuals.md)
+- [License](License.md)
 
 ---
 
