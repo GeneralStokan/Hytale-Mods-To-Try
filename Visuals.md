@@ -1,3 +1,5 @@
+[Back to Main Page](README.md)
+
 # Visual Mods
 
 | Mod | Description | Link |
@@ -8,3 +10,5 @@
 | Realm Revamped | Overhauls the game's biomes with new visuals, lighting effects, and details to improve immersion. | https://www.curseforge.com/hytale/mods/realm-revamped |
 | Practical Storage (OMGitsMiniMe) | Decorative storage containers as chest alternatives. | https://www.curseforge.com/hytale/mods/practical-storage |
 | Better Roofs (Miatski) | New roof styles for building variety. | https://www.curseforge.com/hytale/mods/better-roofs |
+
+[Back to Main Page](README.md)

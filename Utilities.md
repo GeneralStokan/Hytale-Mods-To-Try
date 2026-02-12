@@ -1,3 +1,5 @@
+[Back to Main Page](README.md)
+
 # Utility Mods
 
 | Mod | Description | Link |
@@ -12,3 +14,5 @@
 | Torch Helmets | Adds helmets with built-in torches, providing hands-free lighting. | https://www.curseforge.com/hytale/mods/torch-helmets |
 | WildTale Spawnfix | Fixes spawn issues and improves mob spawning mechanics. | https://www.curseforge.com/hytale/mods/wildtale-spawnfix |
 | MiniMap-Waila (DaddyDaDuck) | Customizable minimap with a toggleable WAILA option. | https://www.curseforge.com/hytale/mods/minimap-waila |
+
+[Back to Main Page](README.md)

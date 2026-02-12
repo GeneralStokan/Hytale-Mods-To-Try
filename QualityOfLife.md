@@ -1,3 +1,5 @@
+[Back to Main Page](README.md)
+
 # Quality of Life Mods
 
 | Mod | Description | Link |
@@ -14,3 +16,5 @@
 | Multitools | Introduces tools that combine multiple functions, reducing inventory clutter. | https://www.curseforge.com/hytale/mods/multitools |
 | Wayback Charm | Allows players to return to a previous location, useful for exploration and safety. | https://www.curseforge.com/hytale/mods/wayback-charm |
 | Healthbar (Ender_Griefeur99) | Displays a health bar above mobs and players for easier tracking of health during combat. | https://www.curseforge.com/hytale/mods/healthbar |
+
+[Back to Main Page](README.md)

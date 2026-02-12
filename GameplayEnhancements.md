@@ -1,3 +1,5 @@
+[Back to Main Page](README.md)
+
 # Gameplay Enhancement Mods
 
 | Mod | Description | Link |
@@ -14,3 +16,4 @@
 | What The Flock | Adds new flocking behaviors and creatures to the game. | https://www.curseforge.com/hytale/mods/what-the-flock |
 | Wild Tale | Expands the game's story and adventure elements with new quests and lore. | https://www.curseforge.com/hytale/mods/wild-tale |
 
+[Back to Main Page](README.md)
